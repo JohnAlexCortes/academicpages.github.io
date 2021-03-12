@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'La poca retroalimentación que había'
+date: 2021-03-12
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,5 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+# This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Se publicaban desarrollos con un largo proceso de desarrollo y la retroalimentación se tenia mucho tiempo después.

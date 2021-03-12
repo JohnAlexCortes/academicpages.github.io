@@ -85,8 +85,8 @@ author:
   bio              : "Ingeniero de sistemas y estudiante de la Maestria en Ciencias de la Información y las Comunicaciones"
   location         : "Bogotá, Colombia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "johnalex8411@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
