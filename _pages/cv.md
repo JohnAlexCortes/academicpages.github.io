@@ -9,51 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+Profesional en ingeniería de sistemas y especialista en ingeniería de software, con amplia experiencia laboral principalmente en empresas del sector financiero.
+
+Tengo la capacidad y conocimientos necesarios para la gestión técnica de proyectos informáticos, así como para diseñar, desarrollar, implementar y soportar arquitecturas y desarrollos de software; altamente responsable, con iniciativa, seriedad, puntualidad y compromiso frente a los retos y metas que me planteen. Destacándome por el liderazgo y el trabajo en equipo.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Magister en ciencias de la información y las comunicaciones, Bogotá
+  Modalidad: Profundización
+  Énfasis: Ingeniería de Software
+  Universidad Distrital Francisco José de Caldas, 2020 II/en curso
+
+* Especialización en Ingeniería de Software, Bogotá
+  Universidad Distrital Francisco José de Caldas, 2015 I/2016 I
+
+* Ingeniería de Sistemas, Bogotá
+  Universidad Escuela Colombiana de Carreras Industriales, 
+  2008 II/2013 I
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Abril 2011-Diciembre 2012
+  Ingeniero de Desarrollo  • Bankvision Software  • Tel 742 1982                              
+  
+* Diciembre 2012 –Abril 2014
+  Ingeniero de Desarrollo  • Entelgy Colombia • Tel 616 6463
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Abril 2014-Junio 2019
+  Gestor de proyectos y líder técnico  • Porvenir S.A. • Tel 339 3000 Ext 75543
+
+* Junio 2019 – Junio 2020
+  Líder técnico  • Grupo Cinte de Colombia  • Tel 381 9026
+
+* Junio 2020 - Actualmente
+  Líder técnico  • DXC Technology  • Tel 381 9026
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Liderazgo técnico, desarrollo Backend y Front con el lenguaje de programación .net y Java.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Implementación en microservicios y contenedores (Openshift) en AWS.
+
+* Acercamiento y capacitación con BPM y BUS. 
+
+* Conocimientos de bases de datos relacionales principalmente pl/sql, PostgreSQL y MySQL, también en bases de datos no relacional como MongoDB.
+
+* Conocimientos en Angular, JavaScript, Flutter, jsp y Android.
+
+* Gestión de proyectos basados en metodologías agiles, DevOps, Manejo de TFS y Jira.
